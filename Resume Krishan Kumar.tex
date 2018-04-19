@@ -1,13 +1,49 @@
-\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[11pt,a4paper,sans]{moderncv} 
+\moderncvstyle{casual} 
+\moderncvcolor{blue} 
 
-\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-
-\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{lipsum} 
 \usepackage{multicol}
 
-\usepackage[scale=0.75]{geometry} % Reduce document margins
-
+\usepackage[scale=0.75]{geometry} 
+%----------------------------------------
+% I am not using enumerated list that will look more dull here
+%    although it can be achieved as such
+%     ----------------------------------
+%      For enumerated list
+%     -----------------------------------
+%		\begin{enumerate}
+ % 			\item The first item  numbered 1 will be displayed
+ % 			\item The number 2 itme.
+%			.....
+%			....
+%			...
+%			..
+%		\end{enumerate}
+%
+%	------------------------------
+%	For itemized list
+%	-----------------------------
+%		\begin{itemize}
+ % 			\item The first item  numbered 1 will be displayed
+ % 			\item The number 2 itme.
+%			.....
+%			....
+%			...
+%			..
+%		\end{itemize}
+%
+%--------------------------------
+%   The main objective of this task from my point of view seems to teach students concepts of LaTeX and GIT and LINUX, along with getting their resumes. 
+%    However beauty of document should be kept as highest priority after concepts.
+%   
+%
+%
+%
+%
+%
+%
+%
 %----------------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
 %----------------------------------------------------------------------------------------
@@ -18,16 +54,14 @@
 \address{Vill. Bardu Puran, Teh. Loharu, Distt. Bhiwani }{Haryana, 127201}
 \mobile{(+91) 9671973851}
 \email{kk14392r4@gmail.com}
-\photo[70pt][0.6pt]{xc} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+\photo[70pt][0.6pt]{xc}
 \quote{"Computers are like Old Testament gods; lots of rules and no mercy"}
 
 %----------------------------------------------------------------------------------------
 
 \begin{document}
 \thispagestyle{empty}
-
-\makecvtitle % Print the CV title
-
+\makecvtitle 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
@@ -36,6 +70,8 @@
 	\cventry{2015--Present}{Engineering}{Brcm College Of Engineering And Technology}{Bahal}{}{Computer Science Engineering}
 	\cventry{2012--2013}{Intermediate}{Army Public School}{Hisar}{\textit{Percentage -- 72\%}}{ Maths,Physics and Chemistry}
 	\cventry{2010--2011}{Xth Board}{Army Public School}{Hisar}{\textit{Percentage -- 78\%}}{Secondary School Certificate}
+
+
 \section{Technical Skills}
 	\begin{multicols}{3}
 		\cvitem{}{C}
@@ -51,14 +87,16 @@
 \end{multicols}
 
 \section{Soft Skills}
-	\cvlistitem{Quick Learner.}
-	\cvlistitem{Patience.}
-	\cvlistitem{Adaptability}
-	\cvlistitem{Able to handle multiple situations at the same time.}
-	\cvlistitem{Creating Ideas: Creativity.}
-	\cvlistitem{Can manage time effectively}
-	\cvlistitem{Team Work.}
-\newpage
+	\begin{enumerate}
+	\cvitem{}{\item Quick Learner.}
+	\cvitem{}{\item Patience.}
+	\cvitem{}{\item Adaptability}
+	\cvitem{}{\item Able to handle multiple situations at the same time.}
+	\cvitem{}{\item Creating Ideas: Creativity.}
+	\cvitem{}{\item Can manage time effectively}
+	\cvitem{}{\item Team Work.}
+	\end{enumerate}
+
 \section{Languages}
 
 \cvitemwithcomment{Hindi}{Intermediate}{Conversationally fluent}
