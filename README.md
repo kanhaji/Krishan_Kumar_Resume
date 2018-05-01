@@ -5,9 +5,10 @@ This was created in LaTeX.
 Links to various projects can be found below
 
 ### [Lab Assistant](https://www.github.com/kanhaji/LabAssistant)
+
 ### [Remote Controlled Line Follower] (http://youtu.be/j_2RbmJ2vj4)
 
-##Social Links
+## Social Links
 
 ### [Facebook](https://www.facebook.com/krishan.kk.r4)
 ### [Twitter](http://twitter.com/krisshh_uchiha)
