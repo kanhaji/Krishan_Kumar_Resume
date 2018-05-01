@@ -9,6 +9,6 @@ Links to various projects can be found below
 
 ##Social Links
 
-### ![image](facebook.png) [Facebook](https://www.facebook.com/krishan.kk.r4)
-### ![image](twitter.jpg) [Twitter](http://twitter.com/krisshh_uchiha)
-### ![image](stackoverflow.png) [Stack Overflow](https://stackoverflow.com/users/8543493/kanha-ji)
+### [Facebook](https://www.facebook.com/krishan.kk.r4)
+### [Twitter](http://twitter.com/krisshh_uchiha)
+### [Stack Overflow](https://stackoverflow.com/users/8543493/kanha-ji)
