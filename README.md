@@ -1,12 +1,12 @@
-# ```Krishan Kumar Resume
+# Krishan Kumar Resume
 
-This resume is located [here](https://github.com/kanhaji/Krishan_Kumar_Resume).
-This was created in LaTeX.
-Links to various projects can be found below
+This resume is located [here](https://github.com/kanhaji/Krishan_Kumar_Resume).<br>
+This was created in LaTeX.<br>
+Links to various projects can be found below.<br>
 
-### [Lab Assistant](http://youtu.be/j_2RbmJ2vj4)
+### [Lab Assistant](https://github.com/kanhaji/LabAssistant)
 
-### [Remote Controlled Line Follower] (http://youtu.be/j_2RbmJ2vj4)
+### [Remote Controlled Line Follower](http://youtu.be/j_2RbmJ2vj4)
 
 ## Social Links
 
