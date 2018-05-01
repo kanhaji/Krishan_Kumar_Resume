@@ -6,7 +6,7 @@ Links to various projects can be found below
 
 ### [Lab Assistant](https://www.github.com/kanhaji/LabAssistant)
 
-### [Remote Controlled Line Follower] (http://youtu.be/j_2RbmJ2vj4)
+### [Remote Controlled Line Follower] (http://youtu.be/j_2RbmJ2vj4)_
 
 ## Social Links
 
